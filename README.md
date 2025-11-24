@@ -1,7 +1,7 @@
 # Markdown Lookup
 
 ```
-# markdown-lookup
+# Markdown Lookup
 ```
 
 <br><hr><br>
@@ -139,6 +139,7 @@ def code_block():
 <br><hr><br>
 
 <table>
+	<caption>Table</caption>
 	<tr>
 		<th>Title1</th>
 		<th>Title2</th>
@@ -151,6 +152,7 @@ def code_block():
 
 ```html
 <table>
+	<caption>Table</caption>
 	<tr>
 		<th>Title1</th>
 		<th>Title2</th>
