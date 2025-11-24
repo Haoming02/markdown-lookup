@@ -90,11 +90,41 @@
 
 <br><hr><br>
 
+> Quote
+
+```md
+> Quote
+```
+
+<br><hr><br>
+
 $\color{red}{\text{Multi}}\ \color{green}{\text{Colored}}\ \color{blue}{\text{Texts}}$
 
 ```latex
 $\color{red}{\text{Multi}}\ \color{green}{\text{Colored}}\ \color{blue}{\text{Texts}}$
 ```
+
+<br><hr><br>
+
+`inline code`
+
+```md
+`inline code`
+```
+
+<br><hr><br>
+
+```py
+def code_block():
+    pass
+```
+
+````md
+```py
+def code_block():
+    pass
+```
+````
 
 <br><hr><br>
 
@@ -104,6 +134,32 @@ $\color{red}{\text{Multi}}\ \color{green}{\text{Colored}}\ \color{blue}{\text{Te
 ```html
 <br>
 <hr>
+```
+
+<br><hr><br>
+
+<table>
+	<tr>
+		<th>Title1</th>
+		<th>Title2</th>
+	</tr>
+	<tr>
+		<td>Cell1</td>
+		<td>Cell2</td>
+	</tr>
+</table>
+
+```html
+<table>
+	<tr>
+		<th>Title1</th>
+		<th>Title2</th>
+	</tr>
+	<tr>
+		<td>Cell1</td>
+		<td>Cell2</td>
+	</tr>
+</table>
 ```
 
 <br><hr><br>
